@@ -21,3 +21,19 @@ Second version: add login → Commit 2
 
 Third version: fix bugs → Commit 3
 You can always go back to any version easily.
+🌐 2. What is GitHub?
+
+GitHub is a cloud platform that stores your Git repositories online.
+
+So Git is the tool → GitHub is the website where you keep and share your projects.
+
+📍Example:
+You have your code on your laptop (local repo).
+You upload it to GitHub (remote repo).
+Now you can:
+
+Access it from anywhere
+
+Collaborate with others
+
+Show your work to employers
