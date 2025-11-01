@@ -1,0 +1,23 @@
+🧠 1. What is Git?
+
+Git is a version control system — a tool that helps you track changes in your code.
+
+Think of it like a “time machine” for your project:
+
+You can save different versions (called commits).
+
+You can go back to an earlier version anytime.
+
+You can work on new features safely using branches.
+
+You can merge everyone’s work together.
+
+📍Example:
+You’re building a website.
+
+First version: home page only → Commit 1
+
+Second version: add login → Commit 2
+
+Third version: fix bugs → Commit 3
+You can always go back to any version easily.
